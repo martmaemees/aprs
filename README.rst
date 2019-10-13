@@ -1,6 +1,9 @@
 aprs - Python APRS Module
 *************************
 
+Changes made:
+* Specified the encoding in setup.py for reading files to fix installation on Windows environments.
+
 aprs is a Python Module that supports connecting to APRS Interfaces, and
 receiving, parsing and sending APRS Frames.
 
